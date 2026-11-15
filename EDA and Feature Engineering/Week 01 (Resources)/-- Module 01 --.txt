@@ -1,0 +1,53 @@
+-- Module 01 --
+---------------
+
+-- Exploratory Data Analysis Part - 01 --
+-----------------------------------------
+
+0 Module Introduction :
+
+1. EDA - Exploratory Data Analysis
+2. Analytical view of a dataset
+3. Feature screening
+4. Statistical 
+5. Univariate Analysis :
+   - Numerical 
+   - Categorical 
+
+
+1. What is EDA :
+
+- Numpy , Pandas , Matplotib, Seaborn 
+
+EDA --> Explaratory Data Analysis
+
+Data (Qualitiful)  ---> Model 
+
+---------------------------------------
+ Provide Data  ----> Model Output Data
+---------------------------------------
+
+- Qualitiful Data ----> Qualitiful Data
+- Garbage Data    ----> Garbage Data 
+
+Aspect : (feature engineering)
+-------
+
+1. Type of Data, Count Data
+2. Data distribution
+3. Spotting Missing data
+4. Outliers 
+5. Relationship between features 
+
+
+Method :
+-------
+1. Analytical Analysis 
+2. Univariate Analysis
+3. Bi-variate and Multivariate
+4. Y-Data Prefiling
+
+
+---------------
+
+
