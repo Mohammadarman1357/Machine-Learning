@@ -50,4 +50,60 @@ Method :
 
 ---------------
 
+2. Analytical View of a Dataset :
+
+- 
+
+3. Input Screening :
+
+- 
+
+4. Statistical Profiling :
+
+- 
+
+5. Univariate Analysis (Categorical Value Analysis -1 : 
+
+- 
+
+6. Univariate Analysis(Categorical Value Analysis -2) : 
+
+- 
+
+7. Univariate Analysis (Numerical Column Analysis - 1) :
+
+Unvariate Analysis : 
+
+- 1 ft
+- variable
+- numerical
+
+- Histogram --> used
+
+outlier :
+- Z - score
+- IQR
+
+-----
+
+Normal distribution na hole : 
+
+- mean -- (cannot use) - (Null value fill up er somoi)
+- z - score -- (cannot use) - (Outlier detection er somoi)
+- IQR method use korte hobe -- (Outlier detection er somoi)
+
+IQR :
+- Interquartile Range (IQR) method is a distribution-agnostic, non-parametric technique used to identify anomalies or extreme values in a dataset
+
+8. Univariate Analysis (Numerical Column Analysis -2) :
+
+- 
+
+Distribution :
+
+Left skew --> left side e skewed (বাকা)
+Right skew --> right side e skewed
+Normal skew --> left and right e same skewed
+
+-------------
 
