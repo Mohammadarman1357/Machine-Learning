@@ -1,0 +1,66 @@
+-- Module  02 --
+
+----- Exploratory Data Analysis Part - 2 ---
+
+1. Module Intro :
+
+1. Multivariate analysis
+2. KDE plot (Kernel Density Estimation)
+
+ ---> Density graph
+
+
+Numerical --> Categorical
+Numerical --> Numerical
+Categorical --> Numerical
+
+-------
+
+2. Multivariate Analysis- 1 ( Countplot with Hue-1) :
+
+- 
+
+3. Multivariate Analysis -1 ( Countplot with Hue-2) :
+
+- 
+
+4. Multi Variate Analysis -3 ( Barplot for Cat-Num) :
+
+- 
+
+5. Density Graph ( Things we need to know for KDE Plot) :
+
+- Z-score 
+- implitation
+
+
+Some height of student :
+
+3 - 4ft = 5 jon
+4 - 5ft = 8 jon
+5 - 6ft = 7 jon
+
+total = 20 jon
+
+6. Multivariate Analysis -4 ( KDE plot for categorical discrepancy ) :
+
+- Distribution comparison through KDE plot 
+
+-----
+
+7. Multivariate Analysis -5 (Scatterplot) :
+
+- 
+
+8. Y Data Profiling :
+
+- Automate the EDA - html (provide file)
+-  
+
+see dependencies --> pip list 
+
+install ydata profiling --> pip install ydata_profiling
+
+-------
+
+
