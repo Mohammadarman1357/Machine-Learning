@@ -1,0 +1,167 @@
+---- Module 03 ----
+--------------------
+
+-- Feature Engineer (Starter,Train Test Split and Missing Value Handling) --
+----------------------------------------------------------------------------
+
+1. Module Introduction :
+-----------------------
+
+Feature Engineering Part-1 :
+
+1. Feature Engineering ki? Steps? 
+2. x, y extract & Train , Test split
+3. Handling Missing Values :
+   - Name --> impute
+   - Cat ---> impute
+
+2. Feature Engineering and its steps :
+-------------------------------------
+
+Dataset ---> Model --> inference 
+
+- Optimized (Titanic --> Survived)
+
+----------
+
+Model Train :
+------------
+
+image, videos , text  ---> Numerical
+
+-----
+
+Step :
+-----
+
+1. Feature Engineering Starter
+2. Feature , target
+3. Train, test data
+4. Missing Values handling
+5. Outlier detection and handling
+6. categorical ---> Numerical (encoding)
+7. Scaling 
+8. Feature creation
+
+---------------
+
+3. Feature Engineering Starter :
+-------------------------------
+
+-
+
+4. Train Test Split Theory :
+---------------------------
+
+- Data1 (train)--> model --> Accuracy- Data2 -( test)
+
+------
+
+Data (100%) :
+------------
+
+- train (80%) - 80 data
+- test (20%) --> model --> Evaluation perform
+
+-------------
+
+5. Train_Test Split Code :
+-------------------------
+
+x - train
+y - train
+
+-------
+
+x -> x-test 
+y -> y-test
+
+--------
+
+scikit learn test train :
+------------------------
+
+from sklearn.model_selection import train_test_split
+
+---------
+
+6. Handling Missing Values :
+---------------------------
+
+Deleting the row 
+Deleting the col --> cabin
+
+impute :
+------
+- numerical :
+  - mean
+  - median - skewed
+
+- categorical :
+  - mode --> frequency 
+  - missing
+
+---------
+
+7. Numerical Missing value Imputation using Pandas :
+----------------------------------------------------
+
+1. pandas a --> fill na()
+2. machine learning --> 
+   - ecosystem :
+     - columntransformer
+     - pipeline
+   - simple imputer()
+
+--------
+
+# always run everything from "train" data. not run anything from "test" data
+
+--------
+
+8. Numerical Missing Values Imputation using Simple Imputer :
+------------------------------------------------------------
+
+simple imputor 
+
+ML ---> Ecosystem 
+
+---------
+
+Simple imputer :
+--------------
+
+from sklearn.impute import SimpleImputer
+
+-----------
+
+9. Categorical Value Imputation with Mode Value :
+------------------------------------------------
+
+1. Mode ---> highest frequency
+2. misiing --> category
+
+-------
+
+missing value indicator 
+
+-------
+
+
+# ravel() --> 2D --> 1D Data convert
+
+--------
+
+10. Categorical Value Imputation with Missing string and Indicator :
+-------------------------------------------------------------------
+
+-
+
+11. Module Overview :
+--------------------
+
+- 
+
+
+
+ 
